@@ -1,0 +1,298 @@
+.class1{
+    height: 119px;
+    width:100px;
+    border:1px solid;
+  text-align: center;
+color:blanchedalmond;
+margin-left: 79px;
+    margin-right: -25px;
+} 
+.section{
+display: flex;
+justify-content: center;
+height: 280px;
+width: 100%;
+margin-top: 55px ;
+    
+}
+.header{
+    height:65px;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    display: flex;
+}
+.h1{
+    padding-left: 112px;
+    padding-top: 14px;
+    margin-top: 0;
+    
+}
+.portdiv{
+    width: 326px;
+    margin: 0;
+
+}
+h4{
+    color: snow;
+}
+.footer{
+    height:65px;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    margin-bottom: 0;
+    display: flex;
+    
+}
+.icon{
+    font-size: 47px;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+} 
+.sub{
+    height:50%;
+    width: 50%;
+    margin-top: 20px;
+}
+.img{
+    height: 200px;
+    width: 150px;
+    border-radius: 30px;
+    border-left: 2px dashed;
+    } 
+.text{
+    text-align: right;
+}
+.sec{
+    height: 100%;
+    width: 100%;
+    background-image: url(ww.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed ;
+
+}
+.nav{
+    justify-content: space-around;
+    display: flex;
+    list-style-type: none;
+}
+.ndiv{
+    width: 500px;
+}
+.button{
+    height: 50px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border: 3px solid gray ;
+    border-radius: 20px;
+
+
+}
+.section2{
+    height: 450px;
+    width: 100%;
+    display: flex;
+}
+.div2{
+    height: 150px;
+    width: 50%;
+    margin-right: 300px;
+    margin-left: 100px;
+}
+.div3{
+    height: 150px ;
+    width:50%;
+    margin-left: 0%;
+
+    
+
+
+}
+.img1{
+    height: 450px;
+    width: 250px;
+    
+    } 
+.section3{
+    height: 550px;
+    width: 100%;
+    display: flex;
+}
+.div4{
+height: 250px ;
+width: 50%;
+}
+.div5{
+    margin-top: 50px;
+    height: 250px;
+    width:50%
+}
+.img2{
+    margin-top: 100px;
+    height: 450px;
+    width: 500px;
+    margin-left: 100px;
+     
+}
+.div6
+{
+    height: 62px;
+    width: 50%;
+    margin-top: 50px;
+    display: flex;
+}
+.icon1{
+    margin-top: 10px;
+}
+.dt{
+    font-size: 20px;
+    font-family: monospace;
+margin-bottom: 0;
+    
+}
+.dd{
+    font-size: 15px;
+    text-align: justify;
+    
+}
+.section4{
+    height: 550px;
+    width: 100%;
+    display: flex;
+
+}
+.div7{
+    height: 250px ;
+    width: 40%;
+    }
+    .div8{
+    
+        margin-top: 50;
+        height: 250px;
+        width:60%
+    }
+    .img3{
+        margin-top: 100px;
+        height: 450px;
+        width: 500px;
+        margin-left: 100px;
+         
+    }
+    .header1{
+        margin-top: 100px;
+        height:65px;
+        width: 100%;
+        display: flex;
+    
+    }
+    .headiv{
+       height: 80px;
+        width: 100%;
+        margin: 0;
+        
+        
+    
+    }
+    .h1{
+        padding-left: 112px;
+        padding-top: 14px;
+        margin-top: 0;
+        font-size: 30px;
+        
+    }
+    
+    .div9
+    {
+        margin-left: 100px;
+        margin-top: 100px;
+        height: 200px;
+        width:60%
+    }
+    
+    
+    td{
+        text-align: center;
+    }
+    th{
+        font-size: 30px;
+    }
+    .section5{
+        height: 550px;
+        width: 100%;
+        margin-top: 23px;
+        
+    }
+    .div10{
+        display: flex;
+        height: 400px ;
+        width: 33%;
+        }
+        .img4{
+        margin-top: 50px;
+        height: 300px;
+        width: 300px;
+        margin-left: 100px;
+        
+        }
+        .ul1{
+            list-style-type: none;
+            display: flex;
+        }
+    .div11{
+        padding-left:494px;
+    }
+    .section5 li{
+        margin-left: 10px;
+    }
+    .fotsec{
+        height: 300px;
+        width: 100;
+        background-color:rgb(31, 28, 28);
+        display: flex;
+    } 
+    .fotdiv{
+        
+        height: 300px;
+        width: 25%;
+    } 
+    .foth1{
+        color: floralwhite;
+    
+      margin-left: 100px;
+    }
+    .foth5
+    {
+        color: floralwhite;
+        margin-left: 100px;
+    } 
+    .foticon{
+        margin-left: 10px;
+        color: floralwhite;
+    } 
+    .iconmaindiv{
+        display: flex;
+        margin-left: 100px;
+        background-color: gray;
+        width: 160px;
+
+
+
+    }
+    /* .icondiv{height: 50px; */
+/* width: 50px; */
+        
+         /* } */
+         .foth3{
+             color: cornsilk;
+             margin-left: 100px;
+         }
+        
+
+    
